@@ -1,7 +1,7 @@
 
 # Meu Portifólio de Excel
 
-Seja bem-vido ao meu repositório! Aqui, você vai encontrar meus projetos acadêmicos e pessoais usando o **Excel** como ferramenta.
+Seja bem-vindo ao meu repositório! Aqui, você vai encontrar meus projetos acadêmicos e pessoais usando o **Excel** como ferramenta.
 
 Fico feliz que esteja interessado em ver meus projetos e espero que possa ajudá-lo(a) de alguma forma.
 
